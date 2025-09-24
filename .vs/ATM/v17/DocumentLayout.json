@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|c:\\users\\is345sp24\\documents\\extra credit project - atm\\atm\\atm\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|c:\\users\\is345sp24\\documents\\extra credit project - atm\\atm\\atm\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE2C02B8-B4DB-4B73-8293-41848C8697C4}|ATM.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAqwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T23:20:18.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAqwNYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:31:31.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form6.cs",
+              "RelativeToolTip": "Form6.cs",
+              "ViewState": "AQIAAHEBAAAAAAAAAAAkwIYBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:31:31.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form5.cs [Design]",
+              "RelativeToolTip": "Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:31:31.705Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAQwPAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:31:31.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form4.cs [Design]",
+              "RelativeToolTip": "Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:31:31.705Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:31:31.705Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAUwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:31:31.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form5.cs",
+              "RelativeToolTip": "Form5.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAAANEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:31:31.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:31:31.705Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form6.cs [Design]",
+              "RelativeToolTip": "Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:31:31.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\is345sp24\\Documents\\Extra Credit Project - ATM\\ATM\\ATM\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:31:31.705Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
